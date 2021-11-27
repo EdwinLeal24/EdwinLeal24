@@ -18,7 +18,7 @@ class EdwinLeal24:
     def __init__(self, username="EdwinLeal24"):
         self.username = username
         self.name = 'Edwin Leal'
-        self.web = 'Under Construction'
+        self.work = 'Web Developer'
         self.reachMe = 'edwinleal019@gmail.com'
         self.education = {
             'programming': ['Web Applications Development', 'UOC X - Xtended Studies'],
